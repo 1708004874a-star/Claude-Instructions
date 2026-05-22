@@ -206,3 +206,9 @@ python3 ~/decrypt_qq_db.py \
 python3 ~/export_qq_to_txt.py "甲贺忍无"
 ```
 
+---
+
+## 八、我的 QQ 号
+
+2487751130
+
