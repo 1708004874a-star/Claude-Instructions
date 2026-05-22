@@ -205,10 +205,3 @@ python3 ~/decrypt_qq_db.py \
 # 3. 导出（替换为实际好友QQ号或昵称）
 python3 ~/export_qq_to_txt.py "甲贺忍无"
 ```
-
----
-
-## 八、我的 QQ 号
-
-111
-
